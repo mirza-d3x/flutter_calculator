@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
-import 'package:sfcalulator/controller/button_controller.dart';
-import 'package:sfcalulator/widgets/button_list.dart';
-import 'package:sfcalulator/widgets/calcButton.dart';
+import 'package:flutter_calculator/controller/button_controller.dart';
+import 'package:flutter_calculator/widget/buttonList.dart';
+import 'package:flutter_calculator/widget/calcubutton.dart';
 
 class ScreenHome extends StatelessWidget {
   const ScreenHome({Key? key}) : super(key: key);
