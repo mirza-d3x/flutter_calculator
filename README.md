@@ -1,16 +1,22 @@
 # flutter_calculator
 
-A new Flutter project.
+A calculator using flutter 
+  I used some packages and libraries for make my project looking good
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+  google_fonts: ^2.2.0{  for text button font and out display fonts 
+  google fonts are awsome looking good
+  }
 
-A few resources to get you started if this is your first Flutter project:
+  cupertino_icons: ^1.0.2{
+   this packages for CupertinoIcons class for iOS style icons.
+  }
+   math_expressions: ^2.3.0{
+   this library for parsing and evaluating mathematical expressions.
+   }
+  provider: ^6.0.2{
+  A wrapper around InheritedWidget to make them easier to use and more reusable.
+  }
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+  use "flutter pub get" for install all packagees i
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
